@@ -3,7 +3,7 @@ var app = {
 
 		var language = navigator.language.replace(/-\w+$/, '');
 
-		$.get('../data.json', function(data){
+		$.get('https://cdn.jsdelivr.net/gh/muircgiveaway/ams/data.json', function(data){
 
 			var data_item = data[language];
 			if(typeof data[language] != 'undefined') {
