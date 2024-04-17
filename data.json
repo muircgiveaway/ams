@@ -1,0 +1,158 @@
+{
+	"ru": {
+		"title": "Сайт знакомств для взрослых",
+		"h1": "Вам уже есть <span>18 лет?</span>",
+		"yes": "Да",
+		"no": "Нет"
+	},
+	"en": {
+		"title": "Adult Dating Online",
+		"h1": "Do you confirm that you are <span>at least 18 years old?</span>",
+		"yes": "Yes",
+		"no": "No"
+	},
+	"it": {
+		"title": "Sito per uomini adulti",
+		"h1": "Hai <span>18 anni?</span>",
+		"yes": "Sì",
+		"no": "Non"
+	},
+	"es": {
+		"title": "Sitio de citas para adultos!",
+		"h1": "¿Tienes <span>más de 18 años?</span>",
+		"yes": "Sì",
+		"no": "No"
+	},
+	"pt": {
+		"title": "Site de namoro adulto",
+		"h1": "Você quer <span>ficar bem?</span>",
+		"yes": "Sim",
+		"no": "Não"
+	},
+	"de": {
+		"title": "Beachtung! Diese Seite ist nur für Erwachsene!",
+		"h1": "Bist du <span>über 18 Jahre alt?</span>",
+		"yes": "Ja",
+		"no": "Nein"
+	},
+	"pl": {
+		"title": "Serwis randkowy dla dorosłych!",
+		"h1": "Masz <span>18 lat?</span>",
+		"yes": "Tak",
+		"no": "Nie"
+	},
+	"tr": {
+		"title": "Dikkat! Yetişkin sitesi",
+		"h1": "18 yaşından <span>büyük müsün</span>?",
+		"yes": "Evet",
+		"no": "Değil"
+	},
+	"fr": {
+		"title": "Attention! Site pour adultes",
+		"h1": "Tu as plus <span>de 18 ans?</span>",
+		"yes": "Oui",
+		"no": "Pas"
+	},
+	"id": {
+		"title": "Perhatian! Situs dewasa",
+		"h1": "Apakah Anda berusia <span>di atas 18 tahun?</span>",
+		"yes": "Iya",
+		"no": "Tidak"
+	},
+	"uk": {
+		"title": "Увага! Сайт лише для повнолітніх",
+		"h1": "Вам вже виповнилось <span>18 років?</span>",
+		"yes": "Так",
+		"no": "Ні"
+	},
+	"zh": {
+		"title": "注意力！ 成人網站",
+		"h1": "您是否超過18歲？",
+		"yes": "是的",
+		"no": "不是"
+	},
+	"kz": {
+		"title": "Назар аударыңыз! Ересектер сайты",
+		"h1": "Сіз 18 жастан <span>асқансыз ба?</span>",
+		"yes": "Иә",
+		"no": "Жоқ"
+	},
+	"uz": {
+		"title": "Diqqat! Voyaga etganlar sayti",
+		"h1": "Siz 18 yoshdan <span>oshganmisiz?</span>",
+		"yes": "Ha",
+		"no": "Yo'q"
+	},
+	"ro": {
+		"title": "Atenţie! Site pentru adulți",
+		"h1": "Ai peste <span>18 ani?</span>",
+		"yes": "Da",
+		"no": "Nu"
+	},
+	"nl": {
+		"title": "Aandacht! Volwassen site",
+		"h1": "Ben je ouder <span>dan 18 jaar?</span>",
+		"yes": "Ja",
+		"no": "Niet"
+	},
+	"sv": {
+		"title": "Uppmärksamhet! Vuxen webbplats",
+		"h1": "Är du <span>över 18 år?</span>",
+		"yes": "Ja",
+		"no": "Inte"
+	},
+	"hu": {
+		"title": "Figyelem! Honlap felnőtteknek.",
+		"h1": "Ön elmúlt <span>18 éves?</span>",
+		"yes": "Igen",
+		"no": "Nem"
+	},
+	"fi": {
+		"title": "Huomio! Sivusto aikuisille.",
+		"h1": "Oletko yli <span>18-vuotias?</span>",
+		"yes": "Joo",
+		"no": "Ei"
+	},
+	"cs": {
+		"title": "Pozornost! Místo pro dospělé.",
+		"h1": "Je vám více <span>než 18 let?</span>",
+		"yes": "Ano",
+		"no": "Ne"
+	},
+	"bg": {
+		"title": "Внимание! Сайт за възрастни.",
+		"h1": "На възраст над <span>18 години ли сте?</span>",
+		"yes": "Да",
+		"no": "Не"
+	},
+	"lt": {
+		"title": "Dėmesio! Svetainė suaugusiems.",
+		"h1": "Ar jums daugiau <span>nei 18 metų?</span>",
+		"yes": "Taip",
+		"no": "Ne"
+	},
+	"ds": {
+		"title": "Opmærksomhed! Websted for voksne.",
+		"h1": "Er du over <span>18 år?</span>",
+		"yes": "Ja",
+		"no": "Ikke"
+	},
+	"sk": {
+		"title": "Pozor! Stránka pre dospelých.",
+		"h1": "Máte viac ako <span>18 rokov?</span>",
+		"yes": "Áno",
+		"no": "Nie"
+	},
+	"lv": {
+		"title": "Uzmanību! Vietne pieaugušajiem.",
+		"h1": "Vai esat vecāks <span>par 18 gadiem?</span>",
+		"yes": "Jā",
+		"no": "Nē"
+	},
+	"no": {
+		"title": "Merk følgende! Nettsted for voksne.",
+		"h1": "Er du over <span>18 år?</span>",
+		"yes": "Ja",
+		"no": "Ikke"
+	}
+}
